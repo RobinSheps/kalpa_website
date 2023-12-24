@@ -1,9 +1,9 @@
 lang: en
-title: openSUSE Template
-title_short: Template
-description: Template for openSUSE Websites
+title: Kalpa Website
+title_short: Kalpa
+description: Webste for the openSUSE MicroOS KDE desktop variant Kalpa
 email: admin@opensuse.org
-copyright: '© 2021 openSUSE contributors'
+copyright: '© 2023 openSUSE contributors'
 baseurl: ""
 url: "https://template.opensuse.org"
 github_url: "https://github.com/openSUSE/jekyll-template"
